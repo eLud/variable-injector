@@ -2,7 +2,7 @@ CURRENT_DIR="$PWD"
 cd /tmp
 
 # Clone, build from source and install
-git clone https://github.com/LucianoPAlmeida/variable-injector.git
+git clone https://github.com/eLud/variable-injector.git
 cd variable-injector
 
 if [[ ! $TAG ]]; then 
